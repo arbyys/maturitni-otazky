@@ -1,3 +1,10 @@
 # Maturitní otázky - Adam Petříček
 
-[test linku](path%20with%20spaces/other_file.md)
+### Odkazy
+
+----
+
+[Mikroprocesorová technika](/mit)
+[Operační systémy a sítě](/ops)
+[Programování](/prg)
+[Webové aplikace](/web)
