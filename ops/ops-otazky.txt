@@ -1,0 +1,97 @@
+
+1.	Vrstva síťového přístupu, Ethernet
+Protokol IEEE 802.3, MAC vrstva, IEEE 802.2, LLC vrstva, unicast, broadcast, multicast, anycast
+ARP protokol, popis rámce Ethernet, PPP a WLAN (stručně, jen vybrané položky rámce)
+Média, modulace, šířka pásma, propustnost 
+Druhy médií – kabely, optická vlákna, bezdrátové sítě - základní principy činnosti
+Značení kabelů (koaxiál, UTP/STP, konektory - zapojení),
+konektory optických vláken (SMF/MMF) 
+
+2.	Aplikační vrstva TCP/IP
+Sítě P2P a klient-server (pro porovnání), aplikace P2P a klient-server (model)
+Popis aplikací a komunikace: 
+WEB server, email, 
+FTP, SMB, NFS, telnet, TFTP, 
+SSH, NTP a další síťové aplikace
+
+3.	Síťový operační systém – Linux 
+Výběr operačního systému (vhodné distribuce Linuxu)
+Instalace operačního systému, připojení uživatelů
+Druhy souborových systémů používaných v současných verzích OS
+Koncepce souborového systému, stromová struktura, druhy souborů
+Práva a oprávnění, nastavení oprávnění pro soubory (rwx), databáze uživatelů a hesel,
+Změna vlastníka a oprávnění
+
+4.	Referenční model OSI/ISO
+Protokol, rozhraní, popis a funkce jednotlivých vrstev, PDU, zapouzdřování, porovnání s modelem TCP/IP, průchod dat přes síťové prvky, kategorie přepínačů pro jednotlivé vrstvy,
+nástroje pro zachycování dat v síti, testování a oprava problémů v síti
+
+5.	VLAN, podniková síť
+Koncepce VLAN, výhody nasazení VLAN, access VLAN, trunk VLAN, IEEE802.1Q, native VLAN, management VLAN, voice VLAN.
+Redundance v podnikové síti (záložní cesty) – STP a PVST+ a výběr root bridge, blokované porty – určení
+Zvýšení propustnosti sítě pomocí EtherChannel - princip, nastavení, protokoly  
+
+6.	Přepínání sítí, Inter-VLAN
+Tři způsoby propojení VLAN, porovnání metod z hlediska efektivity.
+Switch L3, směrování a přepínání sítí – porovnání
+Nastavení směrovače pro propojení VLAN (legacy, Router-on-a-Stick)
+Nastavení přepínače L3 pro Inter-VLAN, možnost směrování přepínače L3
+Připojení VLAN do internetu
+
+7.	Sítě standardu IEEE 802.11
+Přenosová trasa, přístup k médiu, 802.11a/b/g/n/ac/ax WiFi, AP,
+fyzická vrstva – SS – AFH, DS, OFDM, QAM, MIMO,
+Ad-hoc, Wi-Fi Direct, infrastrukturní sítě,
+BSS, ESD, ESSID, MAC control, WEP, WPA, WPA2, WPA3, EAP, 802.1X, Radius, AAA.
+
+8.	Protokol TCP, UDP
+Přepínání datagramů vs. přepínání obvodů, TCP komunikace, segmentace, multiplexování segmentů, formát datagramu, řízení toku, omezení režie, navázání a ukončení spojení (tří a čtyřcestný handshake), plovoucí okno.
+Porovnání komunikace s použitím TCP a UDP, příklady
+
+9.	Adresace v internetu IPv4, cesta datagramu sítí
+Značení portů na aktivních propojovacích prvcích (př. CISCO), fyzické adresy (MAC),
+třídy adres IPv4, rezervované (speciální adresy), veřejné a privátní adresy,
+získání adresy, protokol ARP, vytváření podsítí (podsítě konstantní velikosti, VLSM),
+porty (dobře známé, registrované, volné), popis přenosu dat od odesilatele (klient) k adresátovi (server), přechod paketu přes standardní bránu, ARP - získání MAC,
+rozložení cesty z pohledu modelu TCP/IP – zapouzdření dat
+
+10.	Protokol IPv6
+Specifikace, srovnání s IPv4, dual-stack, tunel, NAT64.
+Prefix a délka prefixu, komprimace nul, názvosloví v IPv6
+druhy vysílání (unicast, multicast, anycast),
+druhy adres IPv6 včetně příkladů adres (GUA, LLA, ULA, multicast)
+stanovení InterfaceID, ZoneID, použití adresy pro ping a web stránky
+ND (NDP) – RS, RA, NS, NA, DAD, ICMPv6 – náhrada ARP
+
+11.	Síťové prvky, přiřazení k vrstvám OSI/ISO
+Popis standardního chování opakovače, mostu, přepínače, směrovače, firewalu …
+Možnosti nastavení přepínače a směrovače pomocí managementu – další funkce směrovače,
+Domácí router a WiFi router – možnosti nastavení, porovnání s podnikovým routerem
+Možnosti škálování sítí (drátové i bezdrátové) – rozšíření množství portů
+
+12.	Zabezpečení komunikace, ACL
+Kryptografie symetrická a asymetrická, hashování, certifikáty a certifikační autorita, elektronický podpis, VPN, příklad implementace (SSL)
+ACL standardní a rozšířený, jmenný ACL, zabezpečení přístupu k managování switche a routeru,
+Vytvoření ACL a nasazení ACL na porty směrovače (filtrace provozu dovnitř a ven – porovnání)
+
+13.	Směrování, směrovací tabulky, směrovací protokoly
+Směrovací tabulky – záznamy, statické směrování, dynamické směrovací protokoly (RIP, RIPv2, RIPng, EIGRP, OSPF, BGP),
+směrovací protokoly postavené na principu vzdáleného vektoru (distance-vector) v porovnání s link-state. 
+Výhody a nevýhody statického směrování oproti dynamického směrování.
+Příklad vytvoření směrovacích tabulek staticky a pomocí směrovacího protokolu (např. RIP)
+
+14.	Problematika bezpečnosti počítačových sítí 
+Fyzická bezpečnost, sociální inženýrství, adware, spyware, malware, exploit, virus, červ, DoS, DDoS, Botnet (zombie), Man in the Middle (MITM), ransomeware
+Zabezpečení přepínače (flooding, snooping, starvation, port security)
+Zabezpečení bezdrátových sítí (kontrola přístupu, šifrování)  
+
+15.	DHCP, NAT, DNS
+DHCPv4 komunikace s DHCP serverem, obsah zprávy DHCP serveru,
+Nastavení rozsahu přidělovaných adres, DHCP Relay (DHCP server za standardní bránou),
+SLAAC, DHCPv6, nastavení serveru a klienta, ověření nastavení.
+Koncepce NAT, důvody a výhody použití NAT, port forwarding, NAT v IPv6 (NAT64)
+Inside, outside, local a global adresy,
+statická NAT, dynamická NAT, portovaná NAT (PAT) - overloading
+Konfigurace statické i dynamické NAT, PAT (NAT overload), ověření nastavení
+Doménové jméno, FQDN, systém DNS – kořenové servery,
+TLD, SLD, přiřazení DN, překlad, autoritativní odpověď

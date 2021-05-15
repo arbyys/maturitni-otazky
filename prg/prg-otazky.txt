@@ -1,0 +1,39 @@
+
+1. Základní programové konstrukce
+Základní programové konstrukce, proměnné, datové typy, reference a hodnota, programy a
+podprogramy, operátory, priorita operátorů.
+
+2. Algoritmus, algoritmická složitost
+Algoritmus, algoritmická složitost, rekurze, náhodnost.
+
+3. Strukturované datové typy
+Strukturované datové typy, objekt, pole, kolekce, generické kolekce.
+
+4. Spojové struktury
+Spojové struktury, seznamy, stromy.
+
+5. Objektové programování I
+Strukturované a objektové programování, objekt, třída, základní objektové vlastnosti, třídy
+abstraktní, zapouzdřené a rozhraní.
+
+6. Objektové programování II
+Zapouzdření, dědičnost, polymorfismus, přepsání a překrytí (virtual, override, new), přetížení.
+
+7. Podprogramy
+Podprogramy, funkce, delegáty, lambda operátory.
+
+8. Návrhové vzory I
+Návrhové vzory pro vytváření instancí, rozšiřování funkcionality.
+
+9. Návrhové vzory II
+Návrhové vzory pro skrývání implementace, optimalizaci rozhraní.
+
+10. Paralelní programování
+Asynchronní a paralelní programování.
+
+11. Architektury .NET
+Prostředky architektury .NET pro cílové platformy, MVVM, Binding, Observer, událostmi řízené
+programování.
+
+12. Verzovací systémy
+Verzovací systémy, Git, repozitář, commit, větev.

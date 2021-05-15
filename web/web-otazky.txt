@@ -1,0 +1,46 @@
+
+13. Konceptuální návrh databáze
+Entita, relace, entitní typ, klíč, kandidátní klíč, primární klíč, silná a slabá entity, kardinalita a parcialita,
+agregace, kompozice
+
+14. Normalizace databáze
+OLAP, OLTP, Normální formy, normalizace, optimalizace, 0. NF, 1. NF, 2. NF, 3.NF
+
+15. Jazyk SQL
+Dialekt, standard, DML, DDL, DCL, TCL, INSERT, UPDATE, INSERT
+
+16. Výběr dat v SQL
+SELECT, projekce, restrikce, podmínky, seskupování, agregace, spojování tabulek
+
+17. Prostředky pro návrh webových aplikací
+HTML, CSS, Javascript, značka, atribut, selektor, příklady selektorů, vlastnosti CSS
+
+18. Možnosti pozicování na webových stránkách
+Blokové a inline prvky, absolutní a relativní pozicování, obtékání, grid, flex, tabulka
+
+19. Frameworky architektury MVC
+MVC, MVP, MVVM, Model, View, Controller, Presenter, Page, PageModel, request, response,
+http
+
+20. Ověřování identity v prostředí internetu
+Jméno, heslo, dvoufázové ověřování, biometrické ověřování, OAuth2, resource, owner,
+authorization server, OpenID, poskytovatelé ověření, access_token
+
+21. Návrh webové aplikace ASP.NET
+Razor Pages, MVC, Page, PageModel, Razor syntaxe, Startup.cs, služba, databáze, Entity
+Framework, Identity
+
+22. AJAX, REST
+Klasická a asynchronní komunikace, AJAX, promise, fetch API, API, metody http, GET, POST,
+DELETE, PUT, PATCH, OPTION, REST
+
+23. React
+Component, DOM, Virtual DOM, událost, životní cyklus komponenty, props, state
+
+24. Prostředky pro návrh webových aplikací II.
+Písmo v WWW, CSS, selektor, příklady selektorů, vlastnosti CSS, media query, CSS Frameworky,
+komponenty v CSS, možnosti pozicování prvků v Bootstrap
+
+25. Testování software, ošetření chyb
+Sémantická chyba, syntaktická chyba, chyba, debugging, ladění aplikace, výjimka, testování,
+jednotkové testy

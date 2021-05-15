@@ -1,0 +1,55 @@
+
+1. Mikrokontroléry (mcu) – základní pojmy
+Vysvětlení pojmu mikrokontrolér, harvardská a von Neumannova architektura, hlavní vlastnosti
+mikrokontrolérů Atmel AVR, popis blokového schématu.
+
+2. Instrukční soubor mcu
+Druhy instrukcí, popis. Struktura instrukce v paměti, CISC, RISC, architektura load-store, doba
+provádění instrukce. Popis příkladu zdrojového kódu programu v asm.
+
+3. Paralelní porty mcu
+Popis paralelních portů mikrokontrolérů řady Atmel AVR. Obvodový popis portu, elektrické
+vlastnosti. Příklady instrukcí pro práci s porty.
+
+4. Připojování externích periferií k mcu
+Tlačítka, klávesnice, LED, segmentové a inteligentní displeje.
+
+5. Čítačové podsystémy mcu
+Režim čítače/časovače, podrobný popis pro Atmel AVR. Režimy CAPTURE, COMPARE, PWM.
+Dohlížecí časovač WDT.
+
+6. Přerušovací podsystém mcu
+Přerušení, obsluha, vektor, povolení, příznak, priorita, kontext, zpracování, přerušovací systém
+Atmel AVR.
+
+7. Vyšší programovací jazyky pro mcu
+Požadavky vpj na architekturu mcu, omezení a rozdíly vůči programování pro osobní počítače,
+optimalizace kompilátoru.
+
+8. Sériová rozhraní mcu
+Popis sériových sběrnic USART, RS422/485, SPI/Microwire, I2C, 1Wire, CAN. Popis sériového
+portu Atmel AVR.
+
+9. Internet věcí
+Vysvětlení pojmu, architektura, sítě typu LPWAN, komunikační protokoly.
+
+10. Procesory
+Struktura současných procesorů (x86/64). Techniky optimalizace provádění instrukcí, snižování
+spotřeby. Rozšířené instrukční sady.
+
+11. Základní desky
+Základní deska (čipová sada, bios), interní sběrnice (PCI, PCIe), externí sběrnice (usb, firewire).
+
+12. Paměti
+Typy pamětí, struktura, základní parametry, optimalizace přístupu do paměti (cache).
+
+13. Zařízení pro ukládání dat
+Pevné disky (HDD/SSD), optická média (CD, DVD, BlueRay), rozhraní PATA, SATA, SCSI, SAS,
+M.2.
+
+14. Grafické karty
+Struktura, základní parametry, akcelerace, vytváření 3D scény, použití pro negrafické výpočty.
+
+15. Výstupní zařízení PC
+Displeje - LCD, LED, OLED, technologie zobrazení, základní parametry. Tiskárny – technologie
+tisku, základní parametry. 
