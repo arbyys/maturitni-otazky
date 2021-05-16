@@ -7,4 +7,4 @@
 [Mikroprocesorová technika](/mit)<br>
 [Operační systémy a sítě](/ops)<br>
 [Programování](/prg)<br>
-[Webové aplikace](/web)
+[Webové aplikace](/web)a
