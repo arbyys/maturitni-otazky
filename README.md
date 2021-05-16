@@ -1,9 +1,3 @@
-<style type="text/css">
-  ol {
-  list-style-type: decimal-leading-zero;
-  }
-</style>
-
 # Maturitní otázky - Adam Petříček
 
 ### Odkazy
