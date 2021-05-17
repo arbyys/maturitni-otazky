@@ -14,7 +14,7 @@ Spojové struktury, seznamy, stromy.
 
 5. Objektové programování I.
 Strukturované a objektové programování, objekt, třída, základní objektové vlastnosti, třídy
-abstraktní, zapouzdřené a rozhraní.
+abstraktní, zapouzdření a rozhraní.
 
 6. Objektové programování II.
 Zapouzdření, dědičnost, polymorfismus, přepsání a překrytí (virtual, override, new), přetížení.
