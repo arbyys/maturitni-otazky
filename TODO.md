@@ -8,6 +8,8 @@ otazka 11 - podrobnosti
 
 otazka 7 - delegaty
 
+otazka 10 - dokoukat videa
+
 
 dotazy (stehlo):
 otázka např. SQL, jak říkat příklady kódu?
