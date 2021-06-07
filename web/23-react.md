@@ -56,4 +56,3 @@
   - `useState()`, `useEffect()`, `useContext()`
 - **pokročilé hooky:**
   - `useReducer()`, `useMemo()`, `useCallback()`
--
