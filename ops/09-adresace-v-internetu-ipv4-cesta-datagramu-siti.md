@@ -87,6 +87,8 @@ E | 240 - 255 | --- | rezerva, experimentální adresy
 22 | SSH
 23 | Telnet
 53 | DNS
+67 | DHCP (server)
+68 | DHCP (klient)
 80 | HTTP
 143 | IMAP
 443 | HTTPS

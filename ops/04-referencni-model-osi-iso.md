@@ -118,6 +118,7 @@
 
 ##### Bridge (most):
 - **spojová vrstva**
+- "switch, co má pouze dva porty"
 - spojuje 2 části sítě
 - sestaví si tabulku s porty MAC adres z obou částí sítě
 - když přijde packet, podle cílové adresy ho buď pošle na druhou stranu, nebo vyřadí

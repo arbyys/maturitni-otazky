@@ -19,6 +19,7 @@
 
 #### Bridge (most):
 - **spojová vrstva** (L2)
+- "switch, co má pouze dva porty"
 - spojuje 2 části sítě
 - není vidět pro protokoly vyšších vrstev
 - sestaví si tabulku s porty MAC adres z obou částí sítě

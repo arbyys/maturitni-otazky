@@ -44,6 +44,7 @@
 - nahrazuje vytváření prostředků pro každou instanci zvlášť
 - příklad - textury
 - šetří paměťovou náročnost programu
+- hra Warcraft
 
 #### Neměnné objekty - Immutable (2. - strukturální vzory)
 
