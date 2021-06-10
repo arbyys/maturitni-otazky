@@ -57,7 +57,7 @@
 - vztah celek-část
   - část **může** existovat i bez celku
   - celek není unikátní pro všechny části
-- př.: manželství
+- př.: manželství a muž / žena
 
 #### Kompozice
 

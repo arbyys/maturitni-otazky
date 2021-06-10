@@ -10,15 +10,6 @@
 
 #### Router-on-a-stick
 
-##### Klasický
-- základní, nejjednodušší metoda Inter-VLAN
-- router se připojí ke všem VLAN pomocí jednoho zařízení (většiou switch)
-  - příslušné packety posílá do VLAN podsítí
-- router má fyzické rozhraní Ethernet pro každou VLAN
-- funkce L2 vrstvy a L3 vrstvy jsou fyzicky odděleny
-- nevýhodou je nízká rychlost, Router-on-a-stick je vhodný především pro menší sítě
-  - **protože router je stavěn na bázi softwaru**, zatímco switch na bázi hardwaru
-
 ##### Pomocí trunků
 - díky použitím trunků se zvyšuje počet rozhraní pro VLAN
   - Router-on-a-stick pomocí trunků se dá použít i pro větší sítě
@@ -56,6 +47,9 @@
 - použití routeru s více interface
   - každé interface má vlastní VLAN
 - switch s access-mode porty, který posílá data na příslušnou VLAN
+- nevýhodou je nízká rychlost
+  - **protože router je stavěn na bázi softwaru**, zatímco switch na bázi hardwaru
+- funkce L2 vrstvy a L3 vrstvy jsou fyzicky odděleny
 
 ##### Konfigurace
 1. Switch - vytvoření VLAN

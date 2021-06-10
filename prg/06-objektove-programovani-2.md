@@ -24,7 +24,7 @@
 - pro každou třídu můžeme definovat různé fungování určité metody, kterou mají společnou
 - příklad - více zvířat (objektů), každý má svou vlastní metodu pro mluvení, ale každý mluví jinak
 
-#### Přepsání a překrytí (overriding)
+#### Přepsání (overriding)
 
 - jde o implementaci polymorfismu v dědičnosti
 - mění chování zděděné metody
