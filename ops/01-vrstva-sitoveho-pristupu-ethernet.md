@@ -1,6 +1,10 @@
 ## 01 - Vrstva síťového přístupu, Ethernet
 ----
 
+- Ethernet = 1. a 2. vrstva OSI/ISO
+
+![osi iso vs tcp ip ](https://cdn.discordapp.com/attachments/805548642341224478/852933542844301312/TCP-IP-model-vs-OSI-model.png)
+
 #### Protokol IEEE 802.3
 
 - firma Institute of Electrical and Electroncs Engineers
