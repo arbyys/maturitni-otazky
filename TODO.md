@@ -1,16 +1,13 @@
-naucit se MVVM, MVC...
+prg otazka 11 - podrobnosti
 
-napsat si stavove kody HTTP
+prg otazka 7 - delegaty
 
-napsat si HTTP funkce (get,post...)
+prg otazka 10 - dokoukat videa
 
-otazka 11 - podrobnosti
+opsko dodelat handshake
+opsko naucit se podsitovani
+opsko ipv6 ula vs link local
+  ula muze byt smerovana routerem
+  lla jen v podsiti
 
-otazka 7 - delegaty
-
-otazka 10 - dokoukat videa
-
-
-dotazy (stehlo):
-otázka např. SQL, jak říkat příklady kódu?
-budou k dispozici pomocné kategorie u otázek?
+mitko sbernice multimaster singlemaster ppp - co to je a zarazeni jednotlivyCh sbenric
