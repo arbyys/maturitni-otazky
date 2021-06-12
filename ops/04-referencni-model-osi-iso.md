@@ -44,7 +44,8 @@
 - provádí multiplexing, rozdělování dat, kontrolu chyb
 - dostane data od relační vrstvy, rozdělí ji na menší jednotky a předá network vrstvě
 - zajišťuje přenos dat mezi vrstvami
-- **gateway, firewall**
+- porty, tcp/udp
+- **gateway, firewall, TCP/UDP**
 
 #### 5) Relační vrstva:
 ##### Session layer
