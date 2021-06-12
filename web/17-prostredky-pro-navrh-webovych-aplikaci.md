@@ -8,7 +8,7 @@
   - od původní verze HTML se změnily příkazy
 - soubory .html, .htm (skoro žádný rozdíl)
 - značkovací jazyk (ne programovací)
-- tagy v úhlových závorkách - `<>`
+- tagy ve špičatých závorkách - `<>`
 - obsahuje 2 základní části:
   - **hlavička (head)** - informace o stránce, autorovi
   - **tělo (body)** - celý obsah stránky
