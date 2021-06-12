@@ -1,6 +1,8 @@
 ## 04 - Referenční model OSI/ISO
 ----
 
+![Obrazek-vrstev](https://ctrlv.cz/shots/2021/06/12/lfyF.png)
+
 - Open System Interconnection/International Standards Organization
 - dělí vzájemnou komunikaci mezi počítači mezi 7 vrstev
 - každá vrstva vykoná příslušnou činnost a předá data další vrstvě
@@ -10,7 +12,6 @@
 - některé vrstvy se dělí na podvrstvy
 - začátek je na aplikační vrstvě
 
-![Obrázek vrstev](https://docplayer.cz/docs-images/54/8616084/images/page_6.jpg)
 
 #### 1) Fyzická vrstva:
 ##### Physical layer
@@ -97,8 +98,6 @@
 - TCP / IP bere, že spolehlivost musí zařídit koncoví učastníci komunikace
   - **TCP / IP - jednodušší, méně spolehlivé**
   - **OSI / ISO - složitější, detailnější, spolehlivější**
-
-![Srovnání](https://lh3.googleusercontent.com/proxy/C3F3rOZ_NfIicdK-VBxN0PUzOFEjzd_cA9dQXpkPvpWoE2ktfJmC02_bHtoAjgMW8clBEVMS5U4RsLfj)
 
 ----
 
