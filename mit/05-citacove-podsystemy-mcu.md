@@ -22,7 +22,7 @@
 
 #### Popis pro ATmega64
 - *nahoře* čítač/časovač
-- čídící logika čítače/časovače
+- řídící logika čítače/časovače
 - výběr cyklu
   - externí
   - frekvence instrukčního cyklu

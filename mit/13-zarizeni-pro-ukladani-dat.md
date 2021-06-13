@@ -79,7 +79,7 @@
   - **TLC**
     - Triple Level Cell
     - 3 stavy na buňku
-  - **TLC**
+  - **QLC**
     - Quad Level Cell
     - 4 stavy na buňku
   - **PLC**
