@@ -47,13 +47,13 @@
 
 ##### Severní můstek (northbridge)
 - připojen přímo k CPU
-- zajišťuje komunikaci mezi CPU, RAM a sběrnicemi PCI, PCI-e
+- zajišťuje komunikaci mezi CPU, RAM a sběrnicemi, PCI-e
 - spojuje CPU se severním můstkem
 - většina funkcí jižního můstku je nyní již implementována přímo do CPU
 
 ##### Jižní můstek (southbridge)
 - též nazýván chipset
-- propojuje audio, ethernet, sběrnice USB, SATA a BIOS chip
+- propojuje audio, ethernet, sběrnice USB, PCI, SATA a BIOS chip
 - dříve byl propojen s jižním můstkem přes PCI sběrnici
 
 ##### Formát desky
