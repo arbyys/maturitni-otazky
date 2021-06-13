@@ -1,5 +1,6 @@
 ## 09 - Návrhové vzory II.
 ----
+NV II. - strukturalni
 
 #### Proxy - zástupce
 

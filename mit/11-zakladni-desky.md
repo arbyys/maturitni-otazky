@@ -45,13 +45,13 @@
     - používá ho především Intel
     - Intel 1151
 
-##### Jižní můstek (northbridge)
+##### Severní můstek (northbridge)
 - připojen přímo k CPU
 - zajišťuje komunikaci mezi CPU, RAM a sběrnicemi PCI, PCI-e
 - spojuje CPU se severním můstkem
 - většina funkcí jižního můstku je nyní již implementována přímo do CPU
 
-##### Severní můstek (southbridge)
+##### Jižní můstek (southbridge)
 - též nazýván chipset
 - propojuje audio, ethernet, sběrnice USB, SATA a BIOS chip
 - dříve byl propojen s jižním můstkem přes PCI sběrnici

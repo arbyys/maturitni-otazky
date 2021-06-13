@@ -1,5 +1,6 @@
 ## 08 - Návrhové vzory I.
 ----
+NV I. - chovani, vytvareni
 
 - šablony pro řešení konkrétních problémů
 - používají se pro zjednodušení daného problému

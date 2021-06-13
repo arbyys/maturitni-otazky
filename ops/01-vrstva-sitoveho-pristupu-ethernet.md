@@ -7,7 +7,7 @@
 
 #### Protokol IEEE 802.3
 
-- firma Institute of Electrical and Electroncs Engineers
+- firma Institute of Electrical and Electronics Engineers
 - použit v LAN
 - standard, který určuje specifikace spojové a fyzické vrstvy
   - vznikl z důvodu standardizace lokálních sítí
