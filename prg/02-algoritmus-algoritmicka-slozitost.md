@@ -6,7 +6,7 @@
 - teoretický princip řešení problému
 - označuje postupy, které splňují:
   - **konečnost** (konečný počet prvků)
-  - **obecnost** (neřešeí konkrétní problém, ale problémy obecně)
+  - **obecnost** (neřeší konkrétní problém, ale problémy obecně)
   - **determinovanost** (ze stejného vstupu generuje vždy stejný výstup)
   - **determinismus** (každý krok je jednoznačně definován)
   - **výstup** (obsahuje výstup, které tvoří odpověď na daný problém)

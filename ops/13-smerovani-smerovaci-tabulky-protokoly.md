@@ -63,6 +63,7 @@
 #### Dynamické směrovací protokoly
 
 ##### RIP
+- distance-vektor protokol
 - Routing Information Protocol
 - nejjednoduší protokol s jednoduchou konfigurací
 - hloupá metrika
@@ -71,6 +72,7 @@
 - nejnovější verze **(RIPng)** má podporu IPv6 a umožňuje provádět lepší autentizace
 
 ##### EIGRP
+- hybridní protokol
 - Enhanced Interior Gateway Routing Protocol
 - pravidelně kontroluje, zda je trasa k dispozici
 - místo směrovací tabulky posílá změny topologie
@@ -80,6 +82,7 @@
 - MD5 autentizace
 
 ##### OSPF
+- link-state protokol
 - Open Shortest Path Find
 - provádí změny v tabulce na základě změn v síti
 - nejpoužívanější v samosprávých systémech
@@ -87,6 +90,7 @@
 - je velmi paměťově náročný
 
 ##### BGP
+- distance-vektor
 - Border Gateway Protocol
 - používají ho provideři (ISP)
 - směrovací tabulky obsahují stovky tisíc záznamů
