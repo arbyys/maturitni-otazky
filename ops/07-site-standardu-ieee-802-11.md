@@ -13,7 +13,7 @@ IEEE 802.11a | Wi-Fi 2 | **5** | **54** | méně vytížené kmitočtové pásmo
 IEEE 802.11b | Wi-Fi 1 | **2.4** | **11** | dynamicky se mění rychlost podle momentálního rušení
 IEEE 802.11g | Wi-Fi 3 | **2.4** | **54** | obdoba 802.11a, ovšem pro pásmo 2.4GHz
 IEEE 802.11n | Wi-Fi 4 | **2.4**, **5** | **600** | větší rychlost díky MIMO, upravuje MAC podvrstvu
-IEEE 802.11ac | Wi-Fi 5 | **5** | **3 466.8** | větší šířka pásma
+IEEE 802.11ac | Wi-Fi 5 | **2.4, 5** | **3 466.8** | větší šířka pásma
 IEEE 802.11ax | Wi-Fi 6 | **2.4**, **5**, **6** | **10 530** | zlepšení spolehlivosti sítě
 
 ----
