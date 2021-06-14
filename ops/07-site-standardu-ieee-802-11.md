@@ -22,20 +22,6 @@ IEEE 802.11ax | Wi-Fi 6 | **2.4**, **5**, **6** | **10 530** | zlepšení spoleh
 - **drátové sítě** - telefonní linka / koaxiální kabel / rádiový přenos
 - **bezdrátové sítě** - optické záření / mikrovlnné záření
 
-#### DCF
-- Distributed Coordination Function
-- základní přístupová metoda k médiu
-- postavena na CSMA/CA
-  - protokol s vícenásobným přístupem a nasloucháním nosné
-- naslouchá, zda je médium volné - pokud je, tak vyšle packet
-- nevýhoda - u velkého počtu stanic stoupá pravděpodobnost kolize
-
-#### PCF
-- Port Coordination Function
-- dodatečná přístupová metoda k médiu
-- využívá se, pokud jsou stanice přípojeny jako Access Point
-- AP přiděluje přenosové médium registrovaným žadatelům
-
 #### Wi-Fi
 - několik standardů IEEE 802.11
 - popisuje bezdrátovou komunikaci v sítích
